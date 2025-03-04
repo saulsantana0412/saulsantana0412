@@ -1,8 +1,8 @@
-<h1 align="center">Hola👋 Que tal?</h1>
+<h1>Hola👋 Que tal?</h1>
 
 ###
 
-<p align="center">Mi nombre es Saul Santana y soy Desarrollador de Software</p>
+<p>Mi nombre es Saul Santana y soy Desarrollador de Software</p>
 
 ###
 
