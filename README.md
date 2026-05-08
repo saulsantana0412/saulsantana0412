@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👨‍💻 Soy un técnico de Desarrollo de Sofware egresado del Instituto Tecnológico de las Américas (ITLA), con un gran interés en la creación de soluciones tecnológicas innovadoras. Me considero una persona proactiva, con ganas de aprender y mejorar en el campo de la tecnología. <br><br>📚 Actualmente estoy aprendiendo <strong>React</strong>.</p>
+<p align="left">👨‍💻 Técnico de Desarrollo de Sofware egresado del Instituto Tecnológico de las Américas (ITLA) y futuro Ingeniero de Software.</p>
 
 ###
 
@@ -28,8 +28,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
 </div>
